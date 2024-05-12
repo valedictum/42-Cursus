@@ -1,14 +1,14 @@
 # 42_cursus
 
-My project submissions for the 42 cursus @ 42 Adelaide.
+My project submissions for the 42 cursus @ 42 Adelaide:
 
 🪐 RING 0 - 1 PROJECT --> COMPLETED ✅
 
     ✅ Ring 0 - Libft (SOLO, about 70 hours)
 
-    The very first project as a student at 42. The object of the project was to recode 
-    functions of the C standard library as well as some other utility functions that will be 
-    used during the whole cursus e.g.
+        The very first project as a student at 42. The object of the project was to recode 
+        functions of the C standard library as well as some other utility functions that will be 
+        used during the whole cursus e.g.
 
 🪐 RING 1 - 3 PROJECTS --> COMPLETED ✅✅✅
 
