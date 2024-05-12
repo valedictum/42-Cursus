@@ -2,6 +2,10 @@
 
 My project submissions for the 42 cursus @ 42 Adelaide:
 
+N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
+estimated standard workloads for each respective project.
+   
+
 🪐 RING 0 - 1 PROJECT --> COMPLETED ✅
 
     ✅ Ring 0 - Libft (SOLO, about 70 hours)
@@ -9,6 +13,7 @@ My project submissions for the 42 cursus @ 42 Adelaide:
         "The very first project as a student at 42. The object of the project is to recode 
         functions of the C standard library as well as some other utility functions that will be 
         used during the whole cursus"
+
 
 🪐 RING 1 - 3 PROJECTS --> COMPLETED ✅✅✅
 
@@ -27,6 +32,7 @@ My project submissions for the 42 cursus @ 42 Adelaide:
         "May it be a file, stdin, or even later a network connection, you will always need a way
         to read content line by line. It is time to start working on this function, which will be 
         essential for your future projects."
+
 
 🪐 RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED ✅✅✅✅
 
@@ -52,6 +58,7 @@ My project submissions for the 42 cursus @ 42 Adelaide:
 
     ✅ Ring 2 - Exam Rank 02
 
+
 🪐 RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS ✅⏳⏳
 
     ✅ Ring 3 - minishell (GROUP, about 210 hours)
@@ -65,5 +72,3 @@ My project submissions for the 42 cursus @ 42 Adelaide:
         hunger." 
 
     ⏳ Ring 3 - Exam Rank 03
-
-
