@@ -1,8 +1,12 @@
 # 42_cursus
 
+
 My project submissions for the 42 cursus @ 42 Adelaide:
 
+
+
 ![alt text](Ring17.05.24.png)
+
 
 N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
 estimated standard workloads for each respective project.
