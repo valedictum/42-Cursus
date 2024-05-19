@@ -1,4 +1,4 @@
-# 42-cursus
+# 42-Cursus
 
 
 My project submissions for the 42 cursus @ 42 Adelaide:
