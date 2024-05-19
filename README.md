@@ -71,13 +71,13 @@ estimated standard workloads for each respective project.
 
 
 
-🪐 RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS ✅⏳⏳
+🪐 RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS ✅✅⏳
 
     ✅ Ring 3 - minishell (GROUP, about 210 hours)
 
         "The objective of this project is for you to create a simple shell." 
 
-    ⏳ Ring 3 - Philosophers (SOLO, about 70 hours)
+    ✅ Ring 3 - Philosophers (SOLO, about 70 hours)
 
         "Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely 
         timing a group of philosophers on when to pick up forks and eat spaghetti without dying from 
