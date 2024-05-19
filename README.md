@@ -12,6 +12,7 @@ N.B. Projects are either SOLO projects or GROUP projects, and the hours mentione
 estimated standard workloads for each respective project.
 
 
+
 🪐 RING 0 - 1 PROJECT --> COMPLETED ✅
 
     ✅ Ring 0 - Libft (SOLO, about 70 hours)
@@ -19,6 +20,7 @@ estimated standard workloads for each respective project.
         "The very first project as a student at 42. The object of the project is to recode 
         functions of the C standard library as well as some other utility functions that will be 
         used during the whole cursus"
+
 
 
 🪐 RING 1 - 3 PROJECTS --> COMPLETED ✅✅✅
@@ -38,6 +40,7 @@ estimated standard workloads for each respective project.
         "May it be a file, stdin, or even later a network connection, you will always need a way
         to read content line by line. It is time to start working on this function, which will be 
         essential for your future projects."
+
 
 
 🪐 RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED ✅✅✅✅
@@ -63,6 +66,7 @@ estimated standard workloads for each respective project.
         sorting." 
 
     ✅ Ring 2 - Exam Rank 02
+
 
 
 🪐 RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS ✅⏳⏳
