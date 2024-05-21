@@ -15,7 +15,7 @@ estimated standard workloads for each respective project.
 
 
 
-🪐 RING 0 - 1 PROJECT --> COMPLETED ✅
+🪐 **RING 0 - 1 PROJECT --> COMPLETED** ✅
 
     ✅ Ring 0 - Libft (SOLO, about 70 hours)
 
@@ -25,7 +25,7 @@ estimated standard workloads for each respective project.
 
 
 
-🪐 RING 1 - 3 PROJECTS --> COMPLETED ✅✅✅
+🪐 **RING 1 - 3 PROJECTS --> COMPLETED** ✅✅✅
 
     ✅ Ring 1 - Born2beroot (SOLO, about 40 hours)
 
@@ -45,7 +45,7 @@ estimated standard workloads for each respective project.
 
 
 
-🪐 RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED ✅✅✅✅
+🪐 **RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅✅
 
     ✅ Ring 2 - FdF (SOLO, about 60 hours)
 
@@ -71,7 +71,7 @@ estimated standard workloads for each respective project.
 
 
 
-🪐 RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS ✅✅⏳
+🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
 
     ✅ Ring 3 - minishell (GROUP, about 210 hours)
 
@@ -84,3 +84,5 @@ estimated standard workloads for each respective project.
         hunger." 
 
     ⏳ Ring 3 - Exam Rank 03
+
+🪐 **RING 4 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
