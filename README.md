@@ -1,19 +1,11 @@
 # 42-Cursus
 
-
 My project submissions for the 42 cursus @ 42 Adelaide:
-
-
-
 
 ![Alt text](Progress-19.05.2024.png)
 
-
-
 N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
 estimated standard workloads for each respective project.
-
-
 
 🪐 **RING 0 - 1 PROJECT --> COMPLETED** ✅
 
@@ -22,8 +14,6 @@ estimated standard workloads for each respective project.
         "The very first project as a student at 42. The object of the project is to recode 
         functions of the C standard library as well as some other utility functions that will be 
         used during the whole cursus"
-
-
 
 🪐 **RING 1 - 3 PROJECTS --> COMPLETED** ✅✅✅
 
@@ -42,8 +32,6 @@ estimated standard workloads for each respective project.
         "May it be a file, stdin, or even later a network connection, you will always need a way
         to read content line by line. It is time to start working on this function, which will be 
         essential for your future projects."
-
-
 
 🪐 **RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅✅
 
@@ -69,8 +57,6 @@ estimated standard workloads for each respective project.
 
     ✅ Ring 2 - Exam Rank 02
 
-
-
 🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
 
     ✅ Ring 3 - minishell (GROUP, about 210 hours)
@@ -85,4 +71,9 @@ estimated standard workloads for each respective project.
 
     ⏳ Ring 3 - Exam Rank 03
 
-🪐 **RING 4 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
+🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
+
+
+    ⏳ Ring 4 - NetPractice (SOLO, about 50 hours)
+
+        "NetPractice is a general practical exercise to let you discover networking."
