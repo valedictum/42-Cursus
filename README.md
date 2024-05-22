@@ -74,6 +74,6 @@ estimated standard workloads for each respective project.
 🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
 
 
-    ⏳ Ring 4 - [Ring_4-NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice) (SOLO, about 50 hours)
+    ⏳ Ring 4 - NetPractice (SOLO, about 50 hours)
 
         "NetPractice is a general practical exercise to let you discover networking."
