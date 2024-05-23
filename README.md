@@ -7,7 +7,10 @@ My project submissions for the 42 cursus @ 42 Adelaide:
 N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
 estimated standard workloads for each respective project.
 
-🪐 **RING 0 - 1 PROJECT --> COMPLETED** ✅
+🪐 **RING 0 - 1 PROJECT --> COMPLETED** ✅  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [Libft](https://github.com/valedictum/42-Cursus/tree/main/Ring_0-Libft)**  
+
 
     ✅ Ring 0 - Libft (SOLO, about 70 hours)
 
@@ -57,8 +60,10 @@ estimated standard workloads for each respective project.
 
     ✅ Ring 2 - Exam Rank 02
 
-🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
-**(Projects: [minishell](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-minishell), [Philosophers](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-Philosophers))**
+🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [minishell](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-minishell), [Philosophers](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-Philosophers)**  
+
 
     ✅ Ring 3 - minishell (GROUP, about 210 hours)
 
@@ -72,9 +77,10 @@ estimated standard workloads for each respective project.
 
     ⏳ Ring 3 - Exam Rank 03
 
-🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
+🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳  
 
-    [NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice)**  
+
 
     ⏳ Ring 4 - NetPractice (SOLO, about 50 hours)
 
