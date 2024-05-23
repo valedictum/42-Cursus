@@ -3,12 +3,16 @@
 My project submissions for the 42 cursus @ 42 Adelaide:
 
 ![Alt text](Progress-19.05.2024.png)
-
+<br>
+<br>
 N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
 estimated standard workloads for each respective project.
-
-🪐 **RING 0 - 1 PROJECT --> COMPLETED** ✅  
-
+<br>
+<br>
+🪐 **RING 0 - 1 PROJECT --> COMPLETED** ✅
+<br>
+<br>
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [Libft](https://github.com/valedictum/42-Cursus/tree/main/Ring_0-Libft)**  
 
 
@@ -17,9 +21,11 @@ estimated standard workloads for each respective project.
         "The very first project as a student at 42. The object of the project is to recode 
         functions of the C standard library as well as some other utility functions that will be 
         used during the whole cursus"
-
-🪐 **RING 1 - 3 PROJECTS --> COMPLETED** ✅✅✅  
-
+<br>
+🪐 **RING 1 - 3 PROJECTS --> COMPLETED** ✅✅✅
+<br>
+<br>
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [Born2beroot](https://github.com/valedictum/42-Cursus/tree/main/Ring_1-Born2beroot), [ft_printf](https://github.com/valedictum/42-Cursus/tree/main/Ring_1-ft_printf), [get_next_line](https://github.com/valedictum/42-Cursus/tree/main/Ring_1-get_next_line)**    
 
 
@@ -38,9 +44,11 @@ estimated standard workloads for each respective project.
         "May it be a file, stdin, or even later a network connection, you will always need a way
         to read content line by line. It is time to start working on this function, which will be 
         essential for your future projects."
-
-🪐 **RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅✅  
-
+<br>
+🪐 **RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅✅
+<br>
+<br>
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [FdF](https://github.com/valedictum/42-Cursus/tree/main/Ring_2-FdF), [minitalk](https://github.com/valedictum/42-Cursus/tree/main/Ring_2-minitalk), [push_swap](https://github.com/valedictum/42-Cursus/tree/main/Ring_2-push_swap)**  
 
 
@@ -65,9 +73,11 @@ estimated standard workloads for each respective project.
         sorting." 
 
     ✅ Ring 2 - Exam Rank 02
-
-🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳  
-
+<br>
+🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
+<br>
+<br>
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [minishell](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-minishell), [Philosophers](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-Philosophers)**  
 
 
@@ -82,11 +92,12 @@ estimated standard workloads for each respective project.
         hunger." 
 
     ⏳ Ring 3 - Exam Rank 03
-
-🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳  
-
+<br>
+🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
+<br>
+<br>
+  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice)**  
-
 
     ⏳ Ring 4 - NetPractice (SOLO, about 50 hours)
 
