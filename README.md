@@ -59,6 +59,9 @@ estimated standard workloads for each respective project.
 
 🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
 
+    [minishell](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-minishell)
+    [Philosophers](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-Philosophers)
+
     ✅ Ring 3 - minishell (GROUP, about 210 hours)
 
         "The objective of this project is for you to create a simple shell." 
@@ -73,8 +76,7 @@ estimated standard workloads for each respective project.
 
 🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
 
-[NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice)
-
+    [NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice)
 
     ⏳ Ring 4 - NetPractice (SOLO, about 50 hours)
 
