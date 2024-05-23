@@ -9,6 +9,7 @@ N.B. Projects are either SOLO projects or GROUP projects, and the hours mentione
 estimated standard workloads for each respective project.
 <br>
 <br>
+
 🪐 **RING 0 - 1 PROJECT --> COMPLETED** ✅
 <br>
 <br>
@@ -22,6 +23,7 @@ estimated standard workloads for each respective project.
         functions of the C standard library as well as some other utility functions that will be 
         used during the whole cursus"
 <br>
+
 🪐 **RING 1 - 3 PROJECTS --> COMPLETED** ✅✅✅
 <br>
 <br>
@@ -45,6 +47,7 @@ estimated standard workloads for each respective project.
         to read content line by line. It is time to start working on this function, which will be 
         essential for your future projects."
 <br>
+
 🪐 **RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅✅
 <br>
 <br>
@@ -74,6 +77,7 @@ estimated standard workloads for each respective project.
 
     ✅ Ring 2 - Exam Rank 02
 <br>
+
 🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
 <br>
 <br>
@@ -93,6 +97,7 @@ estimated standard workloads for each respective project.
 
     ⏳ Ring 3 - Exam Rank 03
 <br>
+
 🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
 <br>
 <br>
