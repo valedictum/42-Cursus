@@ -5,7 +5,7 @@ My project submissions for the 42 cursus @ 42 Adelaide:
 <br>
 <br>
 
-![Alt text](Progress-19.05.2024.png)
+![Alt text](Progress-19.05.2024.png)  
 <br>
 <br>
 N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
