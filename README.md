@@ -35,7 +35,7 @@ estimated standard workloads for each respective project.
 
 🪐 **RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅✅
 
-    ✅ Ring 2 - **FdF** (SOLO, about 60 hours)
+    ✅ Ring 2 - FdF (SOLO, about 60 hours)
 
         "All programs that you wrote until now were executed in text mode on your terminal. Now, 
         let’s discover something more exciting: how to open a graphics window and draw inside? To
@@ -72,6 +72,8 @@ estimated standard workloads for each respective project.
     ⏳ Ring 3 - Exam Rank 03
 
 🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
+
+[NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice)
 
 
     ⏳ Ring 4 - NetPractice (SOLO, about 50 hours)
