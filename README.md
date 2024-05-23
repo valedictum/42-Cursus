@@ -1,17 +1,21 @@
 # 42-Cursus
-
+<br>
 My project submissions for the 42 cursus @ 42 Adelaide:
+<br>
+<br>
+<br>
 
-![Alt text](Progress-19.05.2024.png)
+![Alt text](Progress-19.05.2024.png)  
+
 <br>
 <br>
 N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
 estimated standard workloads for each respective project.
 <br>
 <br>
+<br>
 
 🪐 **RING 0 - 1 PROJECT --> COMPLETED** ✅
-<br>
 <br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [Libft](https://github.com/valedictum/42-Cursus/tree/main/Ring_0-Libft)**  
@@ -25,7 +29,6 @@ estimated standard workloads for each respective project.
 <br>
 
 🪐 **RING 1 - 3 PROJECTS --> COMPLETED** ✅✅✅
-<br>
 <br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [Born2beroot](https://github.com/valedictum/42-Cursus/tree/main/Ring_1-Born2beroot), [ft_printf](https://github.com/valedictum/42-Cursus/tree/main/Ring_1-ft_printf), [get_next_line](https://github.com/valedictum/42-Cursus/tree/main/Ring_1-get_next_line)**    
@@ -49,7 +52,6 @@ estimated standard workloads for each respective project.
 <br>
 
 🪐 **RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅✅
-<br>
 <br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [FdF](https://github.com/valedictum/42-Cursus/tree/main/Ring_2-FdF), [minitalk](https://github.com/valedictum/42-Cursus/tree/main/Ring_2-minitalk), [push_swap](https://github.com/valedictum/42-Cursus/tree/main/Ring_2-push_swap)**  
@@ -80,7 +82,6 @@ estimated standard workloads for each respective project.
 
 🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
 <br>
-<br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [minishell](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-minishell), [Philosophers](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-Philosophers)**  
 
@@ -99,7 +100,6 @@ estimated standard workloads for each respective project.
 <br>
 
 🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
-<br>
 <br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice)**  
