@@ -18,7 +18,10 @@ estimated standard workloads for each respective project.
         functions of the C standard library as well as some other utility functions that will be 
         used during the whole cursus"
 
-🪐 **RING 1 - 3 PROJECTS --> COMPLETED** ✅✅✅
+🪐 **RING 1 - 3 PROJECTS --> COMPLETED** ✅✅✅  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [Born2beroot](https://github.com/valedictum/42-Cursus/tree/main/Ring_1-Born2beroot), [ft_printf](https://github.com/valedictum/42-Cursus/tree/main/Ring_1-ft_printf), [get_next_line](https://github.com/valedictum/42-Cursus/tree/main/Ring_1-get_next_line)**    
+
 
     ✅ Ring 1 - Born2beroot (SOLO, about 40 hours)
 
@@ -36,7 +39,10 @@ estimated standard workloads for each respective project.
         to read content line by line. It is time to start working on this function, which will be 
         essential for your future projects."
 
-🪐 **RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅✅
+🪐 **RING 2 - 3 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅✅  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [FdF](https://github.com/valedictum/42-Cursus/tree/main/Ring_2-FdF), [minitalk](https://github.com/valedictum/42-Cursus/tree/main/Ring_2-minitalk), [push_swap](https://github.com/valedictum/42-Cursus/tree/main/Ring_2-push_swap)**  
+
 
     ✅ Ring 2 - FdF (SOLO, about 60 hours)
 
