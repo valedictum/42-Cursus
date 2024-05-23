@@ -58,7 +58,7 @@ estimated standard workloads for each respective project.
     ✅ Ring 2 - Exam Rank 02
 
 🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
-(Projects: [minishell](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-minishell), [Philosophers](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-Philosophers))
+**(Projects: [minishell](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-minishell), [Philosophers](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-Philosophers))**
 
     ✅ Ring 3 - minishell (GROUP, about 210 hours)
 
