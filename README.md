@@ -1,17 +1,15 @@
-# 42-Cursus
+# 42-Cursus  
 <br>
-My project submissions for the 42 cursus @ 42 Adelaide:
+My project submissions for the 42 cursus @ 42 Adelaide:  
 <br>
 <br>
 <br>
 
-![Alt text](Progress-19.05.2024.png)  
-
+![Alt text](Progress-19.05.2024.png)
 <br>
 <br>
 N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
 estimated standard workloads for each respective project.
-<br>
 <br>
 <br>
 
