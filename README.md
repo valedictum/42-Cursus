@@ -78,7 +78,7 @@ estimated standard workloads for each respective project.
     ✅ Ring 2 - Exam Rank 02
 <br>
 
-🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳
+🪐 **RING 3 - 2 PROJECTS + 1 EXAM --> COMPLETED** ✅✅✅
 <br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [minishell](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-minishell), [Philosophers](https://github.com/valedictum/42-Cursus/tree/main/Ring_3-Philosophers)**  
@@ -94,7 +94,7 @@ estimated standard workloads for each respective project.
         timing a group of philosophers on when to pick up forks and eat spaghetti without dying from 
         hunger." 
 
-    ⏳ Ring 3 - Exam Rank 03
+    ✅ Ring 3 - Exam Rank 03
 <br>
 
 🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
@@ -105,3 +105,21 @@ estimated standard workloads for each respective project.
     ⏳ Ring 4 - NetPractice (SOLO, about 50 hours)
 
         "NetPractice is a general practical exercise to let you discover networking."
+
+	⏳ Ring 4 - CPP Modules 00-04 (SOLO, about 70 hours in total)
+
+		CPP Module 00 - "This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!"
+
+		CPP Module 01 - "This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP."
+
+		CPP Module 02 - "This module is designed to help you understand Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP."
+
+		CPP Module 03 - "This module is designed to help you understand Inheritance in CPP."
+		
+		CPP Module 04 - "This module is designed to help you understand Subtype polymorphism, abstract classes and interfaces in CPP"
+
+  	⏳ Ring 4 - miniRT (GROUP, about 280 hours)
+
+        "This project is an introduction to the beautiful world of Raytracing."
+
+    ⏳ Ring 4 - Exam Rank 04
