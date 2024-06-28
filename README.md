@@ -100,7 +100,7 @@ estimated standard workloads for each respective project.
 🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ✅⏳⏳⏳
 <br>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice) [CPP Module 00](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-CPPModule00)**  
 
     ✅ Ring 4 - NetPractice (SOLO, about 50 hours)
 
