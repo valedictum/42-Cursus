@@ -5,7 +5,7 @@ My project submissions for the 42 cursus @ 42 Adelaide:
 <br>
 <br>
 
-![Alt text](Progress-07.06.2024.png)  
+![Alt text](Progress-28.06.2024.png)  
 <br>
 <br>
 N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
@@ -97,12 +97,12 @@ estimated standard workloads for each respective project.
     ✅ Ring 3 - Exam Rank 03
 <br>
 
-🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ⏳⏳⏳⏳
+🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ✅⏳⏳⏳
 <br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice)**  
 
-    ⏳ Ring 4 - NetPractice (SOLO, about 50 hours)
+    ✅ Ring 4 - NetPractice (SOLO, about 50 hours)
 
         "NetPractice is a general practical exercise to let you discover networking."
 
