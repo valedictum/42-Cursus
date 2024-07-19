@@ -97,7 +97,7 @@ estimated standard workloads for each respective project.
     ✅ Ring 3 - Exam Rank 03
 <br>
 
-🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ✅⏳⏳⏳
+🪐 **RING 4 - 3 PROJECTS + 1 EXAM --> IN PROGRESS** ✅✅⏳⏳
 <br>
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Projects: [NetPractice](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-NetPractice), [CPP Module 00](https://github.com/valedictum/42-Cursus/tree/main/Ring_4-CPPModule00)**  
@@ -122,4 +122,4 @@ estimated standard workloads for each respective project.
 
         "This project is an introduction to the beautiful world of Raytracing."
 
-    ⏳ Ring 4 - Exam Rank 04
+    ✅ Ring 4 - Exam Rank 04
