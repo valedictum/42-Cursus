@@ -5,7 +5,7 @@ My project submissions for the 42 cursus @ 42 Adelaide:
 <br>
 <br>
 
-![Alt text](Progress-19.07.2024.png)  
+![Alt text](Progress-04.08.2024.png)  
 <br>
 <br>
 N.B. Projects are either SOLO projects or GROUP projects, and the hours mentioned are the 
@@ -108,7 +108,7 @@ estimated standard workloads for each respective project.
 
 	⏳ Ring 4 - CPP Modules 00-04 (SOLO, about 70 hours in total)
 
-		CPP Module 00 - "This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!"
+		✅ CPP Module 00 - "This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming!"
 
 		CPP Module 01 - "This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP."
 
